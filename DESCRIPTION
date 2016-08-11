@@ -1,0 +1,12 @@
+Package: data516
+Type: Package
+Title: Data 516 Workstudio
+Version: 0.1.0
+Authors@R: c(
+    person("Boyao", "Zhang", email = "mill.zhang2010@gmail.com", role = c("aut", "cre")),
+    person("Miao", "Liu", email = "liumiao0907@gmail.com", role = "aut"))
+Maintainer: Boyao Zhang <mill.zhang2010@gmail.com>
+Description: This package is used for data analysis at Data 516 Workstudio.
+License: file LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1
